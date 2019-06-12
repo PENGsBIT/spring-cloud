@@ -1,4 +1,4 @@
-package com.forezp.eurekaserver;
+package com.zpc.eurekaserver;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
