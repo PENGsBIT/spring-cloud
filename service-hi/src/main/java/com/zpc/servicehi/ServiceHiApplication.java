@@ -1,4 +1,4 @@
-package com.forezp.servicehi;
+package com.zpc.servicehi;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.SpringApplication;
